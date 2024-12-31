@@ -25,6 +25,14 @@ body {
     width: 100%;
 }
 
+#timer {
+    font-size: 1.5em; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    color: #ff0000; /* Change the color to red */
+    text-align: center; /* Center the text */
+    margin: 20px 0; /* Add some margin */
+}
+
 .taskDone{
     text-decoration: line-through;
 }
