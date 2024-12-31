@@ -1,0 +1,30 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.goalContainer{
+    padding: 0px 0px;
+    margin: 10px;
+    width: 90%;
+    border: 1px solid #353535;
+    display: inline;
+}
+
+.goalContainer h4{
+    margin: 0;
+    padding: 10px;
+    background-color: #353535;
+    color: white;
+}
+
+#pageContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.taskDone{
+    text-decoration: line-through;
+}
