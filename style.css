@@ -35,4 +35,5 @@ body {
 
 .taskDone{
     text-decoration: line-through;
+    color: green;
 }
