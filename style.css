@@ -37,3 +37,12 @@ body {
     text-decoration: line-through;
     color: green;
 }
+
+.hourEstimate{
+    background-color: white;
+    display: inline;
+    margin-left: 10px;
+    align-items: center;
+    padding: 6px;
+    color: #353535;
+}
