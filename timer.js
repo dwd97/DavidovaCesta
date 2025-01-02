@@ -1,5 +1,5 @@
 function updateTimer() {
-    const endDate = new Date('2025-01-08T23:59:59');
+    const endDate = new Date('2025-01-05T23:59:59');
     const now = new Date();
     const timeRemaining = endDate - now;
 
